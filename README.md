@@ -1,1 +1,1 @@
-# Capacita-oMinerva
+# LaboratorioDeProgramacao
